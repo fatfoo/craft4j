@@ -5,6 +5,8 @@
 > Java 后端开发及架构都应该知道的干货文章合集。
 
 [GitHub](https://github.com/fatfoo/craft4j.git)
-[Get Started](#headline)
+[Get Started](#craft4j)
 
-![color](#ffff88)
+<!-- ![color](#ffff88) -->
+
+![](_media/bg.jpg)
